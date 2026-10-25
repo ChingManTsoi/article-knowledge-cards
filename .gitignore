@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / OS 临时文件
+*.swp
+*~
+.idea/
+.vscode/

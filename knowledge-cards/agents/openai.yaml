@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Cards"
+  short_description: "Turn articles and PDFs into compact knowledge cards"
+  default_prompt: "Use $knowledge-cards to turn this article into 5-8 knowledge cards."
