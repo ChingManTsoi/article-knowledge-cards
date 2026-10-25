@@ -4,6 +4,7 @@ description: Turn a pasted article or local Markdown/PDF file into 5-8 single-id
 license: MIT
 metadata:
   short-description: Turn articles into knowledge cards
+  version: 0.1.0
 ---
 
 # Knowledge Cards
